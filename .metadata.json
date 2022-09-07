@@ -1,5 +1,9 @@
 [
   {
+    "package": "ggpath",
+    "oncran": true
+  },
+  {
     "package": "personalr",
     "oncran": true
   }
