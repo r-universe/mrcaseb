@@ -5,10 +5,6 @@
 [submodule "ggpath"]
 	path = ggpath
 	url = https://github.com/mrcaseb/ggpath
-[submodule "ggplot2"]
-	path = ggplot2
-	url = https://github.com/tidyverse/ggplot2
-	registered = false
 [submodule "personalr"]
 	path = personalr
 	url = https://github.com/mrcaseb/personalr
